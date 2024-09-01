@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eksynom.github.io/sitemap.html.gz
+Sitemap: https://eksynom.github.io/app/sitemap.html.gz
+Sitemap: https://eksynom.github.io/assets/sitemap.html.gz
+Sitemap: https://eksynom.github.io/css/sitemap.html.gz
+Sitemap: https://eksynom.github.io/includes/sitemap.html.gz
+Sitemap: https://eksynom.github.io/item/sitemap.html.gz
+Sitemap: https://eksynom.github.io/src/sitemap.html.gz
